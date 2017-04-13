@@ -15,18 +15,17 @@
 #   This version has been modified to run on computers running on MacOSX, 
 #   however it has only been tested on El Capitan and Yosemite.
 #
-#   Feel free to contact me via reddit:'u/tylero056' or email:'tyhostager@gmail.com'
-#   with any questions you might have.
+#   Feel free to contact me via reddit:/u/tylero056 with any questions you might have.
 #
 #   AUTHOR:     tylero056
 #   VERSION:    02/23/17
 #
 ##############################################################################################
 
-INSTALLATION INSTRUCTIONS:
-- Unzip the compressed folder with the password I have provided
-- Mount and open the .dmg file
-- drag-and-drop the application icon into the Applications folder
+V1.0.1b1 INSTALLATION INSTRUCTIONS:
+- Download and install via the installation package here: https://mega.nz/#!fhoEgBII!kYI396ha6IginOu1GUYdRCS5OzyesF5if5UIU_Uwqlc
+- MIRROR LINK(S):
+    - goo.gl/0C9EUq
 
 ADDITIONAL CONFIGURATIONS:
 - Changing screen resolution
@@ -38,4 +37,5 @@ ADDITIONAL CONFIGURATIONS:
     6.) Mouseover "Open with..." and select your preferred text editor
     7.) Change the parameters under "Resolution" to the desired values (i.e. "Resolution = 1024 768")
     
+Enjoy! :)
 
